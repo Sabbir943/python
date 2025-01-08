@@ -1,5 +1,5 @@
 f1=lambda x,y,z:(17-y+2*z)/20
-f2=lambda x,y,z:(-18-3*x+z)/20
+f2=lambda x,y,z:(-18-3*x+z)/7
 f3=lambda x,y,z:(25-2*x+3*y)/20
 
 x0,y0,z0=0,0,0
